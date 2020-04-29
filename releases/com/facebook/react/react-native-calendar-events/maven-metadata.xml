@@ -3,7 +3,7 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-calendar-events</artifactId>
   <versioning>
-    <release>1.7.3-jitsi-4037844</release>
+    <release>1.7.3-jitsi-4184842</release>
     <versions>
       <version>1.7.3-jitsi-4028384</version>
       <version>1.7.3-jitsi-4028456</version>
@@ -13,7 +13,17 @@
       <version>1.7.3-jitsi-4028674</version>
       <version>1.7.3-jitsi-4037783</version>
       <version>1.7.3-jitsi-4037844</version>
+      <version>1.7.3-jitsi-4175204</version>
+      <version>1.7.3-jitsi-4183763</version>
+      <version>1.7.3-jitsi-4184151</version>
+      <version>1.7.3-jitsi-4184268</version>
+      <version>1.7.3-jitsi-4184375</version>
+      <version>1.7.3-jitsi-4184499</version>
+      <version>1.7.3-jitsi-4184530</version>
+      <version>1.7.3-jitsi-4184670</version>
+      <version>1.7.3-jitsi-4184695</version>
+      <version>1.7.3-jitsi-4184842</version>
     </versions>
-    <lastUpdated>20200412071807</lastUpdated>
+    <lastUpdated>20200429073658</lastUpdated>
   </versioning>
 </metadata>
